@@ -1,6 +1,6 @@
 # python-chi_unit-integration
 
-Unit and Integration Testing for the python-chi module. This repository contains both Python scripts and Jupyter notebooks exercising `python-chi` methods per the documentation provided (here)[https://python-chi.readthedocs.io/en/latest/].
+Unit and Integration Testing for the python-chi module. This repository contains both Python scripts and Jupyter notebooks exercising `python-chi` methods per the documentation provided [here](https://python-chi.readthedocs.io/en/latest/).
 
 ### Installation
 
